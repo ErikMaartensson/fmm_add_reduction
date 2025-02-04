@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Apr 29 10:20:57 2024
-
-@author: Erik Mårtensson
 """
 
 import numpy as np
